@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "2",
+      "title": "HALLEF Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "title": "Blanditiis vel cillu",
+      "type": "Internship",
+      "description": "Voluptas qui aut rep",
+      "location": "Ad exercitationem ve",
+      "salary": "$125K - 150K",
+      "company": {
+        "name": "Riley Moody Trading",
+        "description": "Culpa ut asperiores ",
+        "contactEmail": "jurujolu@mailinator.com",
+        "contactPhone": "+1 (762) 944-6083"
+      },
+      "id": "Wpn0ABC"
+    },
+    {
+      "title": "Culpa doloremque qui",
+      "type": "Remote",
+      "description": "Culpa eu dolore lab",
+      "location": "Magni enim voluptate",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "Salas and Miles Inc",
+        "description": "Eveniet qui delenit",
+        "contactEmail": "naqabyv@mailinator.com",
+        "contactPhone": "+1 (677) 563-6312"
+      },
+      "id": "8Ji06IG"
+    }
+  ]
+}
